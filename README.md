@@ -9,7 +9,7 @@ Projeto simples com conceitos de:
 - - RequestDispacher
 - - criação de view JSP e envio/ e recebimento de parametros com EL  
 - Padrão MVC
-- -criação do controlador
+- - criação do controlador
 - Simulação de Banco  com <LIST>
 - Crud completo
 
