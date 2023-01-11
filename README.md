@@ -10,7 +10,7 @@ Projeto simples com conceitos de:
 - - criação de view JSP e envio/ e recebimento de parametros com EL  
 - Padrão MVC
 - - criação do controlador
-- Simulação de Banco  com <LIST>
+- Simulação de Banco  com LIST
 - Crud completo
 
 Objetivo do estudo: Base para uso de Spring MVC  
